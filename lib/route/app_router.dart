@@ -10,7 +10,8 @@ class AppRouter extends _$AppRouter {// _をつけないと怒られる!
 
  @override
  List<AutoRoute> get routes => [
-    AutoRoute(page: RouteA.page, initial: true),
+    // ここにルーティングを追加していく
+    AutoRoute(page: RouteA.page, initial: true),// initial: trueで初期画面を指定
     AutoRoute(page: RouteB.page),
     AutoRoute(page: RouteC.page),
   ];
