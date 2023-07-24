@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "196433390992",
+    "project_id": "usersearch-a36f9",
+    "storage_bucket": "usersearch-a36f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:196433390992:android:58b9f281d91b2862db9715",
+        "android_client_info": {
+          "package_name": "com.jboy.authstate_signin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "196433390992-dlulovuvvguj7vd9hq9lp3pgee58395q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeLCY3JT93N-8CzGFUgZExLctIrqcJzGY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "196433390992-c0a88cckggv3i2a1l3ttseto490ttcht.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "196433390992-ameu0t5httl82ql6rco5lhumuusapick.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.jboy.authstateSignin"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:196433390992:android:a7d8f24cb869f47ddb9715",
+        "android_client_info": {
+          "package_name": "com.jboy.auto_route_tutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "196433390992-dlulovuvvguj7vd9hq9lp3pgee58395q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeLCY3JT93N-8CzGFUgZExLctIrqcJzGY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "196433390992-c0a88cckggv3i2a1l3ttseto490ttcht.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "196433390992-ameu0t5httl82ql6rco5lhumuusapick.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.jboy.authstateSignin"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
